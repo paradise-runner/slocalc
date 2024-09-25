@@ -48,9 +48,17 @@ This project is a simple web application that calculates the Service Level Objec
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Open Source Love
+
+This project is developed with love by open source enthusiasts. We believe in the power of community-driven development and welcome contributions from developers around the world. Your ideas, bug reports, and pull requests are greatly appreciated!
+
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [GPL v3 License](LICENSE).
+
+## More Information
+
+For more information about this project and other related work, please visit [https://hec.works](https://hec.works).
 
 ## Contact
 
