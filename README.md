@@ -1,6 +1,6 @@
-# SLO Burn Rate Calculator
+# SLO Calculator
 
-This project is a simple web application that calculates the Service Level Objective (SLO) burn rate based on user inputs. It's built using Svelte and styled with Tailwind CSS.
+This project is a simple web application that calculates the Service Level Objective (SLO) burn rate, error budgets, and downtime allocation based on user inputs. It's built using Svelte and styled with Tailwind CSS.
 
 ## Features
 
@@ -32,7 +32,7 @@ This project is a simple web application that calculates the Service Level Objec
    npm run dev
    ```
 
-4. Open your browser and navigate to `http://localhost:5000` (or the port specified in your console output).
+4. Open your browser and navigate to `http://localhost:5173/` (or the port specified in your console output).
 
 ## Usage
 

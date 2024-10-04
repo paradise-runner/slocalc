@@ -4,7 +4,7 @@
 
 	let sloTarget = 30;
 	let sloTargetPercentage = 99.5;
-	let activeTab = 'burn-rate';
+	let activeTab = 'error-budget';
 
 	let errorBudgetConsumed = 2;
 	let longWindow = 1;
@@ -107,7 +107,7 @@
 			{#each tabs as tab}
 				<li>
 					<a
-						class="px-4 py-2 rounded-lg transition-colors duration-150 {activeTab === tab.id
+						class="px-2 py-2 rounded-lg transition-colors duration-150 {activeTab === tab.id
 							? 'bg-white dark:bg-gray-800 dark:text-white shadow-sm'
 							: 'dark:text-white'}"
 						href={`#${tab.id}`}
